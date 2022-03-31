@@ -1,0 +1,10 @@
+Computer: 
+  Squares: * 2 * * 5 * 7 * * 
+  Score: -858993460
+
+Human: 
+  Squares: * 2 3 4 5 * * 8 * 
+  Score: -858993460
+
+First Turn: Computer
+Next Turn: Human
