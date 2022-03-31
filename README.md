@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @RyanGaraffa
 -
 - 👀 I’m interested in 
+-Automation Development
 -C++ Coding
 -Rock Climbing
 -Looking into summer 2022 internships
--Game Development
 -Bot Creation
 -
 - 🌱 I’m currently learning
@@ -12,7 +12,6 @@
 -Unreal Engine 5
 -Lisp
 -Java/Android
--Prolog
 -Network Programming
 -
 - 💞️ I’m looking to collaborate on 
